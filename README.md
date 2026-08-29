@@ -63,8 +63,7 @@ This is an **unofficial / secondary GitHub account** used for experiments, pract
 
 <br/><br/>
 
-<a href="https://anurag-portfolio-webdev.netlify.app/">
-  anurag-portfolio-webdev.netlify.app
+ 
 </a>
 
 </div>
@@ -103,47 +102,6 @@ This is an **unofficial / secondary GitHub account** used for experiments, pract
 
 ---
 
-## `> featured_projects`
-
-### 🏢 Bharat Webstudio
-
-Professional websites and digital experiences for local businesses.
-
-<a href="https://oxanuragofficial.github.io/bharat-webstudio-official/">
-  <img src="https://img.shields.io/badge/LIVE%20PROJECT-00FF66?style=for-the-badge&labelColor=050505" alt="Bharat Webstudio"/>
-</a>
-
----
-
-### 💇 SparkLight Unisex Salon
-
-A responsive business website project built for a salon.
-
-<a href="https://oxanuragofficial.github.io/sparklight-unisexsalon/">
-  <img src="https://img.shields.io/badge/LIVE%20PROJECT-00FF66?style=for-the-badge&labelColor=050505" alt="SparkLight Unisex Salon"/>
-</a>
-
----
-
-### 🚗 Car Finder Web App
-
-A responsive web application for exploring and discovering cars.
-
-<a href="https://github.com/oxanuragofficial/car-finder-web-app">
-  <img src="https://img.shields.io/badge/VIEW%20SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Car Finder Source"/>
-</a>
-
----
-
-### 🧠 DSA Practice
-
-A collection of Data Structures & Algorithms practice problems and Java solutions.
-
-<a href="https://github.com/oxanuragofficial/dsa-practice">
-  <img src="https://img.shields.io/badge/VIEW%20DSA%20REPO-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="DSA Practice"/>
-</a>
-
----
 
 ## `> coding_profiles`
 
