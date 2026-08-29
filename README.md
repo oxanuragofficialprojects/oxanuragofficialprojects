@@ -2,15 +2,28 @@
 
 # `ANURAG.exe`
 
-### Computer Science Student • Developer • Builder
+### B.Tech CSE Student • Frontend Developer • Aspiring Full-Stack Engineer
 
-<img src="./assets/retro-coder.gif" alt="Retro coder working on an old computer" width="900"/>
+<img src="./assets/retro-coder.gif" alt="Retro computer coder animation" width="900"/>
 
-**Building projects. Solving problems. Learning every day.**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black)](YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](YOUR_MAIN_GITHUB_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+### `BUILD • BREAK • DEBUG • REPEAT`
+
+<br/>
+
+<a href="https://anurag-portfolio-webdev.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00FF66?style=for-the-badge&labelColor=050505" alt="Portfolio"/>
+</a>
+<a href="https://github.com/oxanuragofficial">
+  <img src="https://img.shields.io/badge/💻%20GITHUB-00FF66?style=for-the-badge&labelColor=050505" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/oxanuragofficial/">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-00FF66?style=for-the-badge&labelColor=050505" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/oxanurag_official/">
+  <img src="https://img.shields.io/badge/📸%20INSTAGRAM-00FF66?style=for-the-badge&labelColor=050505" alt="Instagram"/>
+</a>
 
 </div>
 
@@ -19,16 +32,42 @@
 ## `> whoami`
 
 ```text
-Name        : Anurag
-Focus       : Software Development
-Learning    : Full-Stack Development + DSA
-Languages   : Java • JavaScript • TypeScript • C++ • Python
-Environment : Windows • Git • VS Code
+╔══════════════════════════════════════════════╗
+║                                              ║
+║  NAME        : Anurag Kumar                  ║
+║  EDUCATION   : B.Tech CSE                    ║
+║  ROLE        : Frontend Developer            ║
+║  DIRECTION   : Full-Stack Development        ║
+║  LEARNING    : Java • DSA • Web Development  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-I build practical web projects, experiment with new technologies, and spend a lot of time improving my problem-solving skills through Data Structures & Algorithms.
+I'm a Computer Science student focused on **software development, web technologies, and problem solving**.
 
-This is an **unofficial / secondary GitHub account** for experiments, practice, testing, and personal projects.
+I build real projects, practice Data Structures & Algorithms, experiment with new technologies, and continuously improve my development skills.
+
+This is an **unofficial / secondary GitHub account** used for experiments, practice, testing, and personal projects.
+
+---
+
+## `> portfolio`
+
+<div align="center">
+
+### 🌐 Explore My Work
+
+<a href="https://anurag-portfolio-webdev.netlify.app/">
+  <img src="https://img.shields.io/badge/OPEN%20MY%20PORTFOLIO-00FF66?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Open Portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="https://anurag-portfolio-webdev.netlify.app/">
+  anurag-portfolio-webdev.netlify.app
+</a>
+
+</div>
 
 ---
 
@@ -36,21 +75,95 @@ This is an **unofficial / secondary GitHub account** for experiments, practice, 
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+### Languages
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/C++-050505?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+### Frontend
+
+<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Vite-050505?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+
+### Backend & Tools
+
+<img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Express.js-050505?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+</div>
+
+---
+
+## `> featured_projects`
+
+### 🏢 Bharat Webstudio
+
+Professional websites and digital experiences for local businesses.
+
+<a href="https://oxanuragofficial.github.io/bharat-webstudio-official/">
+  <img src="https://img.shields.io/badge/LIVE%20PROJECT-00FF66?style=for-the-badge&labelColor=050505" alt="Bharat Webstudio"/>
+</a>
+
+---
+
+### 💇 SparkLight Unisex Salon
+
+A responsive business website project built for a salon.
+
+<a href="https://oxanuragofficial.github.io/sparklight-unisexsalon/">
+  <img src="https://img.shields.io/badge/LIVE%20PROJECT-00FF66?style=for-the-badge&labelColor=050505" alt="SparkLight Unisex Salon"/>
+</a>
+
+---
+
+### 🚗 Car Finder Web App
+
+A responsive web application for exploring and discovering cars.
+
+<a href="https://github.com/oxanuragofficial/car-finder-web-app">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Car Finder Source"/>
+</a>
+
+---
+
+### 🧠 DSA Practice
+
+A collection of Data Structures & Algorithms practice problems and Java solutions.
+
+<a href="https://github.com/oxanuragofficial/dsa-practice">
+  <img src="https://img.shields.io/badge/VIEW%20DSA%20REPO-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="DSA Practice"/>
+</a>
+
+---
+
+## `> coding_profiles`
+
+<div align="center">
+
+<a href="https://leetcode.com/oxanuragofficial/">
+  <img src="https://img.shields.io/badge/LEETCODE-00FF66?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=050505"/>
+</a>
+
+<a href="https://www.codechef.com/users/oxanura">
+  <img src="https://img.shields.io/badge/CODECHEF-00FF66?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=050505"/>
+</a>
+
+<a href="https://codeforces.com/profile/oxanuragofficial">
+  <img src="https://img.shields.io/badge/CODEFORCES-00FF66?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=050505"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/hindvansianurag">
+  <img src="https://img.shields.io/badge/HACKERRANK-00FF66?style=for-the-badge&logo=hackerrank&logoColor=000000&labelColor=050505"/>
+</a>
 
 </div>
 
@@ -59,57 +172,62 @@ This is an **unofficial / secondary GitHub account** for experiments, practice, 
 ## `> current_mission`
 
 ```text
-[████████████████████░░]  Learning
-[██████████████████░░░░]  Building
-[███████████████░░░░░░░]  Problem Solving
-[██████████████░░░░░░░░]  Full-Stack Development
-```
-
-- Build real-world web applications
-- Strengthen DSA and algorithmic thinking
-- Learn backend and system fundamentals
-- Experiment with AI and automation
-- Keep improving through real projects
-
----
-
-## `> featured_projects`
-
-| Project | Description | Stack |
-|---|---|---|
-| **Bharat Webstudio** | Professional web presence for local businesses | React • Vite • Tailwind |
-| **YouTube Video Grid** | Responsive video-grid interface | React • Vite • CSS |
-| **E-Commerce Platform** | Full-stack online shopping platform | React • Node.js • Database |
-| **DSA Practice** | Algorithms and problem-solving solutions | Java |
-
----
-
-## `> coding_philosophy`
-
-```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   Code. Learn. Break things. Fix them.       │
-│   Understand the problem. Then optimize.     │
+│  [████████████████████░░]  DSA               │
+│  [██████████████████░░░░]  Java              │
+│  [██████████████████░░░░]  Web Development   │
+│  [████████████████░░░░░░]  Backend            │
+│  [███████████████░░░░░░░]  Full-Stack        │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
 
-I don't want to just make code that works.
-
-I want to understand **why it works**, identify the bottleneck, and improve it.
+* Building real-world web applications
+* Improving DSA and problem-solving
+* Learning Java and backend development
+* Building full-stack applications
+* Exploring AI and automation
+* Turning ideas into working software
 
 ---
 
-## `> stats`
+## `> github`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oxanuragofficial&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanuragofficial&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=00FF66&text_color=FFFFFF" height="170"/>
 
 </div>
+
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oxanuragofficial&theme=dark&hide_border=true&background=050505&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## `> philosophy`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  Don't just make code that works.            │
+│                                              │
+│  Understand why it works.                    │
+│  Find the bottleneck.                        │
+│  Fix the problem.                            │
+│  Then make it better.                        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -117,9 +235,21 @@ I want to understand **why it works**, identify the bottleneck, and improve it.
 
 <div align="center">
 
-**Portfolio:** `YOUR_PORTFOLIO_URL`  
-**LinkedIn:** `YOUR_LINKEDIN_URL`  
-**Main GitHub:** `YOUR_MAIN_GITHUB_URL`
+<a href="https://anurag-portfolio-webdev.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00FF66?style=for-the-badge&labelColor=050505"/>
+</a>
+
+<a href="https://github.com/oxanuragofficial">
+  <img src="https://img.shields.io/badge/💻%20GITHUB-00FF66?style=for-the-badge&labelColor=050505"/>
+</a>
+
+<a href="https://www.linkedin.com/in/oxanuragofficial/">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-00FF66?style=for-the-badge&labelColor=050505"/>
+</a>
+
+<a href="https://www.instagram.com/oxanurag_official/">
+  <img src="https://img.shields.io/badge/📸%20INSTAGRAM-00FF66?style=for-the-badge&labelColor=050505"/>
+</a>
 
 </div>
 
@@ -128,9 +258,13 @@ I want to understand **why it works**, identify the bottleneck, and improve it.
 <div align="center">
 
 ```text
-SYSTEM STATUS: ONLINE
+╔══════════════════════════════════════╗
+║        SYSTEM STATUS: ONLINE         ║
+║                                      ║
+║       CODE • LEARN • BUILD           ║
+╚══════════════════════════════════════╝
 ```
 
-### `Code is the tool. Understanding is the skill.`
+### `Learn. Build. Improve.`
 
 </div>
